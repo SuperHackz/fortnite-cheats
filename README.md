@@ -5,7 +5,7 @@
 ## Preface
 Full Fortnite project files for External.
 
-This is ready-to-use cheat, it has lot of core features and has no issues.
+This is a ready-to-use cheat, it has a lot of core features and has no issues.
 
 ## Showcase
 https://github.com/KingzCheats/Fortnite-External/assets/114768995/82d501fb-9197-4887-95ce-7f9fdf03367b
@@ -34,9 +34,6 @@ Press `INSERT`.
 ### How do I unload the cheat?
 Press `END`.
 
-## Credits 
-- dex and maddie for their address, hash, module, netvar, pattern, pe, and vmt classes
-- everyone who contributed to the project!
 
 ## Known issues
 - Some of the code is unoptimized.
