@@ -37,6 +37,3 @@ Press `END`.
 
 ## Known issues
 - Some of the code is unoptimized.
-
-## License
-Licensed under the MIT License. 
